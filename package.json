@@ -1,0 +1,22 @@
+{
+  "name": "labphase1",
+  "version": "1.0.0",
+  "description": "Ma première express.js chez GoMyCode",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "labphase",
+    "gomycode"
+  ],
+  "author": "astephbi@gmail.com Alex Zan Bi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.8",
+    "nodemon": "^2.0.16"
+  }
+}
